@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin: 0;
+    color: white;
+    background-color: black;
+    font-style: italic;
+}
+#maincontent{
+    padding: 100px 0px 0px 100px;
+    margin-left: 400px;
+    margin-right: 0px;
+}
+#lo{
+    padding: 10px 100px 10px 100px;
+    background-color: deeppink;
+    border-radius: 10px;
+    font-style: inherit;
+}
+#plahol{
+    background-color: aliceblue;
+    color: black;
+    margin-left: 25px;
+    font-weight: bolder;
+}
+#logi{
+    font-weight: bolder;
+    margin-left: 80px;
+}
+.h3tag{
+    margin-left: 50px;
+}
+#or{
+    margin-left: 50px;
+}
+#newuser{
+    margin-left: 40px;
+}
